@@ -1,4 +1,4 @@
-Criando um sistema cancário com Python na versão 1.0 com 1 usuario eoperações basicas, deposito saque e estrato.
+Criando um sistema Bancário com Python na versão 1.0 com operações basicas, deposito saque e estrato.
 
 Depósito: Apenas valores positivos e todos devem ser armazenados e exibidos na opração extrato
 
